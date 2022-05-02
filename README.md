@@ -12,7 +12,7 @@
 * [notyet](https://github.com/leahneukirchen/notyet), a text-based recursive task tracker
 * [nq](https://github.com/leahneukirchen/nq), Unix command line queue utility
 * [pds](https://github.com/leahneukirchen/pds), parallel data substitution
-* [px](https://github.com/leahneukirchen/pds), search for processes and print top(1)-like status
+* [px](https://github.com/leahneukirchen/px), search for processes and print top(1)-like status
 * [rdd](https://github.com/leahneukirchen/rdd), random data dumper
 * [rdumpfs](https://github.com/leahneukirchen/rdumpfs), a rsync-based dump file system backup tool
 * [reap](https://github.com/leahneukirchen/reap), run process until all its spawned processes are dead
